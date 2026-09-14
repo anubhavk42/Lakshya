@@ -2,7 +2,7 @@
 
 **A fully offline app that helps students preparing for any competitive exam build a consistent study routine and track their real readiness — without needing internet or draining their phone's battery.**
 
-**▶️ [Try the live demo](https://appetize.io/app/b_mppjoq6ubkzfmzpuz2vfxsvlki)** — run the app in your browser, no install needed.
+**▶️ [Try the live demo](https://appetize.io/app/b_j7ozba7qphqan5ttw7zgwmpf6q)** — run the app in your browser, no install needed.
 
 ## Screenshots
 
