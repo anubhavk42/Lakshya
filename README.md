@@ -1,4 +1,5 @@
-# Exam Prep
+# Lakshya (लक्ष्य)
+*लक्ष्य — Hindi for "goal" or "target."*
 
 **A fully offline app that helps students preparing for any competitive exam build a consistent study routine and track their real readiness — without needing internet or draining their phone's battery.**
 
@@ -87,14 +88,16 @@ A second, related trade-off: a **Notification Filter (Focus Mode)** feature that
 
 ## Building
 
-There is no Gradle wrapper checked in. Build the debug APK with a local Gradle distribution and the Android Studio JDK:
+There is no Gradle wrapper checked in. Build with a local Gradle distribution and the Android Studio JDK.
 
+**Debug build:**
 ```bash
 JAVA_HOME="/Applications/Android Studio.app/Contents/jbr/Contents/Home" \
   gradle assembleDebug
 ```
+Output: `app/build/outputs/apk/debug/app-debug.apk`
 
-The output APK is written to `app/build/outputs/apk/debug/app-debug.apk`.
+**Signed release build:** use Android Studio's *Build → Generate Signed Bundle / APK* with your own release keystore. Output: `app/release/app-release.apk`. A signed release build is also available directly on the [v1.0 release page](https://github.com/anubhavk42/Lakshya/releases/tag/v1.0).
 
 ## How success is measured
 
@@ -120,7 +123,7 @@ An honest list of what is missing or unverified:
 
 ## Privacy
 
-Exam Prep collects nothing and transmits nothing. The full policy is in [PRIVACY.md](PRIVACY.md) and is also viewable inside the app under Settings.
+Lakshya collects nothing and transmits nothing. The full policy is in [PRIVACY.md](PRIVACY.md) and is also viewable inside the app under Settings.
 
 ## Development note
 
