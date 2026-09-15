@@ -5,6 +5,10 @@
 
 **▶️ [Try the live demo](https://appetize.io/app/b_j7ozba7qphqan5ttw7zgwmpf6q)** — run the app in your browser, no install needed.
 
+## Demo
+
+https://github.com/user-attachments/assets/4e84d8a8-8784-4675-a179-32692ba769ab
+
 ## Screenshots
 
 <table>
