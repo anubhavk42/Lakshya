@@ -9,25 +9,6 @@
 
 https://github.com/user-attachments/assets/4e84d8a8-8784-4675-a179-32692ba769ab
 
-## Screenshots
-
-<table>
-  <tr>
-    <td align="center"><img src="docs/screenshots/onboarding.png" width="200" alt="Onboarding — pick any exam from presets or type your own" /><br/><sub><b>Onboarding</b> — pick any exam</sub></td>
-    <td align="center"><img src="docs/screenshots/home.png" width="200" alt="Home — exam countdown, what's next, streak and alerts" /><br/><sub><b>Home</b> — countdown & alerts</sub></td>
-    <td align="center"><img src="docs/screenshots/subjects.png" width="200" alt="Subjects — mastery rings per subject" /><br/><sub><b>Subjects</b> — mastery rings</sub></td>
-    <td align="center"><img src="docs/screenshots/timetable.png" width="200" alt="Timetable — today's schedule and wellness habits" /><br/><sub><b>Timetable</b> — schedule & habits</sub></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="docs/screenshots/weekly.png" width="200" alt="Weekly progress — week-over-week trends" /><br/><sub><b>Weekly trends</b> — this week vs last</sub></td>
-    <td align="center"><img src="docs/screenshots/heatmap.png" width="200" alt="Consistency heatmap over 10 weeks" /><br/><sub><b>Heatmap</b> — 10-week consistency</sub></td>
-    <td align="center"><img src="docs/screenshots/settings.png" width="200" alt="Settings — Focus Mode, language and haptics" /><br/><sub><b>Settings</b> — Focus Mode & language</sub></td>
-    <td align="center"><img src="docs/screenshots/widget.png" width="200" alt="Home-screen widget — days left and current streak" /><br/><sub><b>Widget</b> — days left & streak</sub></td>
-  </tr>
-</table>
-
-<sub>In-app screens shown with Demo Mode sample data.</sub>
-
 ## The problem
 
 Students preparing for competitive exams — government jobs, licensing exams like Drug Inspector, UPSC, banking — juggle a mess of disconnected tools: a physical notebook for their timetable, a notes app for mistakes, WhatsApp reminders from parents, and generic study apps that assume a fixed syllabus and constant internet access.
